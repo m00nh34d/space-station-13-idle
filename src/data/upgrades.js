@@ -218,7 +218,7 @@ for (let i = 0; i < 5; i++) {
 	ENGINEERING_UPGRADES[`upgradeEngineering${i + 1}`] = upgrade;
 }
 
-export const FABRICATION_UPGRADE_PERCENT = .2;
+export const FABRICATION_UPGRADE_PERCENT = .1;
 const FABRICATION_UPGRADES = {}
 for (let i = 0; i < 5; i++) {
 	let upgrade = {
